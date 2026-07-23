@@ -60,7 +60,7 @@ Is "I do not have that information" in response?
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SwayamGPT/Chatbot.git
+git clone https://github.com/SwayamGPT/pdf-rag-chatbot.git
 cd Chatbot
 ```
 
